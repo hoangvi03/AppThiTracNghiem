@@ -1,0 +1,109 @@
+D:\desktop\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe.config
+D:\desktop\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe
+D:\desktop\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.pdb
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.AssemblyReference.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangNhap.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.Properties.Resources.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.GenerateResource.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CoreCompileInputs.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.exe
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.pdb
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangKy.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.GiaoDienChinh.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe.config
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.pdb
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.AssemblyReference.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangKy.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangNhap.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DoiMatKhau.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.GiaoDienChinh.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.Properties.Resources.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.GenerateResource.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CoreCompileInputs.cache
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.exe
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.pdb
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.KetQuaThi.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.ThongBaoThi.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.LichSuThi.resources
+D:\desktop\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.QLiUser.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe.config
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.pdb
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.AssemblyReference.cache
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangKy.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangNhap.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DoiMatKhau.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.KetQuaThi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.LichSuThi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.Properties.Resources.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.QLiCauHoi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.ThongBaoThi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.GenerateResource.cache
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CoreCompileInputs.cache
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.exe
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.pdb
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\Guna.UI2.dll
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CopyComplete
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormThiSinh.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormGiaoVien.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormHome.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormCauHoi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormDSCH.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC_CauHoi.UC_DSCH.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC.UC_QLyCauHoi.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormMonHoc.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormDSChamDiem.resources
+D:\desktop\File bài\Công nghệ NET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormChamDiem.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe.config
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.pdb
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\Guna.UI2.dll
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.AssemblyReference.cache
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangKy.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangNhap.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DoiMatKhau.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormCauHoi.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormChamDiem.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormDSCH.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormDSChamDiem.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormGiaoVien.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormHome.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormMonHoc.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormThiSinh.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.Properties.Resources.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC.UC_QLyCauHoi.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC_CauHoi.UC_DSCH.resources
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.GenerateResource.cache
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CoreCompileInputs.cache
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CopyComplete
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.exe
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.pdb
+D:\desktop\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.MonThi.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe.config
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.exe
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\UngDungThiTN.pdb
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\Guna.UI2.dll
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.AssemblyReference.cache
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.SuggestedBindingRedirects.cache
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangKy.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DangNhap.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.DoiMatKhau.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormCauHoi.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormChamDiem.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormDSChamDiem.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormGiaoVien.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormHome.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormMonHoc.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.FormThiSinh.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.MonThi.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.Properties.Resources.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC.UC_QLyCauHoi.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.UC_CauHoi.UC_DSCH.resources
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.GenerateResource.cache
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CoreCompileInputs.cache
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.csproj.CopyComplete
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.exe
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\obj\Debug\UngDungThiTN.pdb
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\Classes.dll
+E:\HUFI\Hk1_2023_2024\CNNET\Đồ án\UngDungThiTN\UngDungThiTN\UngDungThiTN\UngDungThiTN\bin\Debug\Classes.pdb

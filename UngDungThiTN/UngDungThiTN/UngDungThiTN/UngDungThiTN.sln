@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UngDungThiTN", "UngDungThiTN\UngDungThiTN.csproj", "{00E15908-B2B0-4BA4-B51D-00688B6EEDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "..\..\..\..\QL_THITRACNGHIEM\Classes\Classes.csproj", "{BDBB5563-69C4-4B6A-AB7A-B7F54797231B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E15908-B2B0-4BA4-B51D-00688B6EEDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E15908-B2B0-4BA4-B51D-00688B6EEDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E15908-B2B0-4BA4-B51D-00688B6EEDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E15908-B2B0-4BA4-B51D-00688B6EEDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBB5563-69C4-4B6A-AB7A-B7F54797231B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBB5563-69C4-4B6A-AB7A-B7F54797231B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBB5563-69C4-4B6A-AB7A-B7F54797231B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBB5563-69C4-4B6A-AB7A-B7F54797231B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE05801-5E0D-44C9-8860-94902D0C368A}
+	EndGlobalSection
+EndGlobal
